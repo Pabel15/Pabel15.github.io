@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-3.testeo
+3. testeo
 
 **Bold** and _Italic_ and `Code` text
 
